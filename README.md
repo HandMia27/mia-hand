@@ -18,8 +18,9 @@ I am a data-driven problem solver passionate about leveraging technology to impr
 - Leadership and adaptability in dynamic environments  
 
 ## Projects  
+For the Access file to my project, visit my **[Project](https://github.com/HandMia27/mia-hand/blob/main/Part%204%20-%20Hand.accdb)**
 
-### **Project 1: [Project Name]**  
+### **Project 1: MLB Season Tickets**  
 **Business Problem:** Major League Baseball is an organization that consists of 30 teams, having the primary goal to entertain fans of every team. This company allows fans to purchase season tickets for a specific seat or seats in the section of their choice. A database would make it possible to keep track of season ticket holder’s information and seat location within the baseball park. 
 **My Role:** This course project is an individual assignment that will allowed me to show off databased design, database build, data storage, data retrieval, and report building skills. 
 **Challenges & Solutions:** Mention obstacles you overcame.  
@@ -27,7 +28,7 @@ I am a data-driven problem solver passionate about leveraging technology to impr
 
 
 ## Work Experience  
-For a detailed breakdown of my experience, visit my **Resume**.  
+For a detailed breakdown of my experience, visit my **[Resume](https://github.com/HandMia27/mia-hand/blob/main/Emily%20Hand%20-%20Resume%20copy.pdf)**.  
 
 ### **Sports Development Intern - University of Denver, Athletics & Recreation Division**  
 October 2022 – Present
